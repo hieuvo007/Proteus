@@ -1,0 +1,19 @@
+# --- Proteus Ignore Rules ---
+# Auto-generated backup folders and files
+Project Backups/
+Backup Of*
+Last Loaded*
+
+# User-specific configuration files (local machine only)
+*.pwi
+*.workspace
+*.lock
+*.DSN.lock
+
+# Temporary database and simulation files
+*.dbk
+*.SDF
+
+# Build output directories (optional but recommended)
+Debug/
+Release/

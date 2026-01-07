@@ -1,0 +1,13 @@
+# Proteus Backup files
+*.pdsbak
+*.Backup
+*Autosaved*
+
+# Simulation generated files
+*.HEX
+*.SDF
+*.LST
+
+# OS files
+Thumbs.db
+.DS_Store
