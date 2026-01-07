@@ -1,0 +1,7 @@
+# Proteus Generated Files (Ignore list)
+*.pdsbak
+*.backup
+*.Log
+*.SDF
+*.LISA
+Last Loaded *
